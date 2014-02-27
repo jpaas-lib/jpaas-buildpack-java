@@ -5,7 +5,7 @@ Buildpack for Java Web(tomcat) and Java Stanalone apps.
 ### Usage
 ```bash
 	jpaas push ${appname} -i 1 -m 512M -b https://github.com/jpaas-lib/jpaas-buildpack-java
-```bash
+```
 
 ### Runtimes
 *	jdk: 1.6
