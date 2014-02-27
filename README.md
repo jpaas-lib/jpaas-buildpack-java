@@ -1,6 +1,6 @@
 ## jpaas-buildpack-java
 
-Buildpack for Java Web(tomcat) and Java Stanalone apps.
+Buildpack for Java Web(tomcat) and Java Standalone apps.
 
 ### Usage
 ```bash
